@@ -16,5 +16,5 @@ pip install -r requirements.txt
 ## Contributions
 This was a solo hobby project to explore the intersection of AO in Healthtech.
 
-https://github.com/ZunairaNamal/Cancer-Awareness-Chatbot/assets/159707805/35a9cc59-823a-48a5-a4e8-873917b665ea
+https://github.com/ZunairaNamal/Cancer-Awareness-Chatbot/assets/159707805/5611a4ed-6386-48f7-96e8-2c3b62314177
 
