@@ -9,7 +9,7 @@ Utilized a fine-tuned LLM from OpenAI to address cancer-related inquiries with a
 Experimenting with the OpenAI API requires an API 🔑. You can get one[here]
 (https://platform.openai.com/api-keys).
 
-## Requirments
+## Requirements
 Requirements using: 
 pip install -r requirements.txt
 
